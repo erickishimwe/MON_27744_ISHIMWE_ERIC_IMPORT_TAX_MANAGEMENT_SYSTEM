@@ -55,7 +55,7 @@ CREATE TABLE Importer (
     Country VARCHAR2(50)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/59799bbd98180c4f64367816fcb6b7bc7406f31e/Importer%20table.PNG) 
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/46935c6fe186ab07bdb52d78f504a3890b6fa99a/import.png) 
 
 CREATE TABLE PRODUCT 
 ```sql
