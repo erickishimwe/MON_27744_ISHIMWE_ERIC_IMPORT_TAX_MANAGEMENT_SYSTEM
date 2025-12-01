@@ -136,19 +136,6 @@ CREATE TABLE AuditLog (
     TableAffected VARCHAR2(50)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/f915241ff009cacfae19c78c9968dfc9bc950c70/Audit_well.PNG)
-
-```sql
-CREATE TABLE AuditLog (
-    log_id        NUMBER GENERATED ALWAYS AS IDENTITY,
-    username      VARCHAR2(30),
-    operation     VARCHAR2(10),
-    object_name   VARCHAR2(50),
-    operation_time TIMESTAMP,
-    status        VARCHAR2(20),
-    reason        VARCHAR2(100)
-);
-```
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/AuditLog.png)
 
 
