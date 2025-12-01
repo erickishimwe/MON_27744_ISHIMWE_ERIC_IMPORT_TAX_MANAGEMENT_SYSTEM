@@ -437,7 +437,7 @@ END;
 /
 ```
 
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/96ab61e5413e51af95465febb3b821dfaf2a6f73/call%20%20function%20well.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%202.png)
 
 
 CALLING PACKEGES 
@@ -462,7 +462,7 @@ END;
 /
 
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/96ab61e5413e51af95465febb3b821dfaf2a6f73/call%20procudure.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%203.png)
 
 Call Full Summary
 ```sql
@@ -507,7 +507,7 @@ BEGIN
 END;
 /
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/952c25e975f15b819281fecaf8624d78e7b89030/trigger%20new.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/Trigger.png)
 
 
 
@@ -577,7 +577,7 @@ CREATE OR REPLACE PACKAGE BODY tax_pkg IS
 END tax_pkg;
 /
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/03200fee86b6583423dfb8106203306800556c49/packafe%20well.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%20%26%20package%20.png)
 
 
 
@@ -595,7 +595,7 @@ BEGIN
 END;
 /
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/1052ef3de8d1c282adf74f9e85a39bdbf5c1e2f7/Audit_well.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%203.png)
 
 
 ![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/4b632fd51a22400015919f164523b3eeb4faa3b2/manager.PNG) 
