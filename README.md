@@ -329,6 +329,7 @@ CREATE OR REPLACE PACKAGE pkg_tax_summary AS
 END pkg_tax_summary;
 /
 ```
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/DDL.png)
 
 
 ```SQL
@@ -352,6 +353,7 @@ END;
 /
 
 ```
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/DDL.png)
 
 
 ```SQL 
@@ -365,7 +367,7 @@ BEGIN
 END;
 /
 ```
-
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/ede90ad1e2434ecc750d1a0a2b146e244d81fd8c/procedure%203.png)
 
 
  CREATE FUNCTION CALLED FN_CALCULATION_TAX 
