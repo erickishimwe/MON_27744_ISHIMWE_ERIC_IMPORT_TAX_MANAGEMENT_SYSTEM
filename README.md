@@ -400,6 +400,7 @@ EXCEPTION
 END;
 /
 ```
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/ede90ad1e2434ecc750d1a0a2b146e244d81fd8c/procedure%20%26%20package%20.png)
 
 CREATING PROCEDURE pr_get_payment_status
 
@@ -507,7 +508,7 @@ CREATE OR REPLACE PACKAGE tax_pkg IS
 END tax_pkg;
 /
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/03200fee86b6583423dfb8106203306800556c49/package.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/ede90ad1e2434ecc750d1a0a2b146e244d81fd8c/procedure%203.png)
 
 CREATING PACKAGE BOY FOR CALLING 
 ``` sql  
@@ -584,8 +585,6 @@ END;
 ```
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%203.png)
 
-
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/4b632fd51a22400015919f164523b3eeb4faa3b2/manager.PNG) 
 
 
 
