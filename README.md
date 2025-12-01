@@ -67,7 +67,7 @@ CREATE TABLE Product (
     Quantity NUMBER CHECK (Quantity >= 0)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/59799bbd98180c4f64367816fcb6b7bc7406f31e/product.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/product.png)
 
 CREATE  TABLE TAXRATE 
 ```sql 
@@ -77,7 +77,10 @@ CREATE TABLE TaxRate (
     RatePercentage NUMBER(5, 2) CHECK (RatePercentage >= 0 AND RatePercentage <= 100)
 );
 
+
 ```
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/TaxRate.png)
+
 CREATE TABLE IMPORT TRANSICTION 
 
 ```sql
@@ -104,7 +107,7 @@ CREATE TABLE Invoice (
     Status VARCHAR2(20)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/f915241ff009cacfae19c78c9968dfc9bc950c70/invoice.PNG).
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/import%20Transaction.png).
 
  CREATE TABLE PAYMENT 
 
@@ -119,7 +122,7 @@ CREATE TABLE Payment (
     Status VARCHAR2(20)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/f915241ff009cacfae19c78c9968dfc9bc950c70/payment.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/payment.png)
 
 CREATE TABLE AUDIT 
 
@@ -146,21 +149,7 @@ CREATE TABLE AuditLog (
     reason        VARCHAR2(100)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/c9710087de1fdca91093016d4308da4f55fdc7d3/Audit_well.PNG)
-
-
-CREATE TABLE HOLYDAY 
-
-
-```sql
-CREATE TABLE Holidays (
-    holiday_date DATE PRIMARY KEY,
-    description  VARCHAR2(100)
-);
-
-
-```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/c9710087de1fdca91093016d4308da4f55fdc7d3/hollday.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/AuditLog.png)
 
 
 INSERTING DATA INTO ALL TABLE 
