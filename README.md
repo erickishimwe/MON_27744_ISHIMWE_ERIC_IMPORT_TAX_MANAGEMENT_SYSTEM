@@ -30,7 +30,7 @@ The process of managing import taxes is often manual, fragmented, and error-pron
  
 The diagram below illustrates the core workflow of the Import Product Tax Management System, from product entry and tax calculation to payment processing and audit logging. It highlights the interactions between key entities such as importers, tax authorities, and system components.
 
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/bf0cda5ad79d849b4da3b213acf00e4ee0944e9f/bpm.PNG) 
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/38936323934a3a0abbf487a7e66a059e84c1eb72/bpm.PNG) 
 
 
 📌 System UML
@@ -43,7 +43,7 @@ The Import Product Tax Management System is designed to streamline and automate 
 
 The ERD below outlines the database structure of the Import Product Tax Management System. It shows the relationships between key entities such as Importers, Products, Taxes, Transactions, Invoices, and Payments, providing a clear view of how data is organized and interconnected within the system.
 
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/bf0cda5ad79d849b4da3b213acf00e4ee0944e9f/erd.PNG) 
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/38936323934a3a0abbf487a7e66a059e84c1eb72/erd.PNG) 
 
 
 CREATE TABLE IMPORTER 
