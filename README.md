@@ -93,7 +93,7 @@ CREATE TABLE ImportTransaction (
     Status VARCHAR2(20)
 );
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/96f3c18537306b7c456c7b0e1efc4467546689b6/Importer%20table.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/import%20Transaction.png)
 
  CREATE TABLE INVOICE 
 
@@ -107,7 +107,7 @@ CREATE TABLE Invoice (
     Status VARCHAR2(20)
 );
 ```
-![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/175fc34c1c94f8c51dc5cce6f6a13782806bc75b/import%20Transaction.png).
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/invoice.png).
 
  CREATE TABLE PAYMENT 
 
@@ -203,7 +203,7 @@ HOLYDAY
 INSERT INTO Holiday VALUES (701, TO_DATE('2025-05-01', 'YYYY-MM-DD'), 'Labor Day');
 INSERT INTO Holiday VALUES (702, TO_DATE('2025-05-17', 'YYYY-MM-DD'), 'Independence Day');
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/c9710087de1fdca91093016d4308da4f55fdc7d3/dml.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/insert%201.png)
 
 
 DML (DATA MANIPUATION LANGUAGE )
@@ -225,7 +225,7 @@ UPDATE ImportTransaction
 SET Status = 'Cleared'
 WHERE TransactionID = 302;
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/59799bbd98180c4f64367816fcb6b7bc7406f31e/insert%203.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/DDML.png)
 
 
 
@@ -246,7 +246,7 @@ Delete a payment that was marked as pending
 DELETE FROM Payment
 WHERE Status = 'Pending';
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/c9710087de1fdca91093016d4308da4f55fdc7d3/ddl.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/DDL.png)
 
 
 
@@ -257,7 +257,7 @@ WHERE Status = 'Pending';
 ALTER TABLE Importer
 ADD Email VARCHAR2(100);
 ```
-![Conceptual Diagram](https://github.com/JeanRomeo250/Thus_27671_NUWOKWOKWIZERWA_IMPORT_PRODUCT_TAX_MANAGEMENT_SYSTEM/blob/59799bbd98180c4f64367816fcb6b7bc7406f31e/insert%203.PNG)
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/0e88d7f8ab1fee45dd389ff8c42e92df576a1f3d/DDL.png)
 
 
  CREATING PROCEDURE IN TAX CALCULATION AND PAYMENT STATUS SUMMARY  
