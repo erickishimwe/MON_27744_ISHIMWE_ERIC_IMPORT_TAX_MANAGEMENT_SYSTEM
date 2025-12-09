@@ -43,7 +43,7 @@ The Import Product Tax Management System is designed to streamline and automate 
 
 The ERD below outlines the database structure of the Import Product Tax Management System. It shows the relationships between key entities such as Importers, Products, Taxes, Transactions, Invoices, and Payments, providing a clear view of how data is organized and interconnected within the system.
 
-![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/38936323934a3a0abbf487a7e66a059e84c1eb72/erd.png) 
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/38936323934a3a0abbf487a7e66a059e84c1eb72/erd.PNG) 
 
 
 CREATE TABLE IMPORTER 
