@@ -36,7 +36,7 @@ The diagram below illustrates the core workflow of the Import Product Tax Manage
 ## 📌 System UML
 
 The Import Product Tax Management System is designed to streamline and automate the management of import-related taxes. It captures key processes including importer registration, product classification, tax rate assignment, transaction processing, invoice generation, payment tracking, and audit logging. The UML diagram below provides a visual overview of the system’s structure and the interaction between its core components.
-![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/f7e9750aeb59097ecf3135ab9a41a820b85dcf08/ONE.png) 
+![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/f7e9750aeb59097ecf3135ab9a41a820b85dcf08/capture.png) 
 
 ## 🗂️ Entity-Relationship Diagram (ERD):
 
