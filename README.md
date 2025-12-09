@@ -587,6 +587,10 @@ END;
 ```
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%203.png)
 
+*Oracle Enterprise Manager (OEM)
+is Oracle’s main tool for monitoring, managing, and tuning Oracle databases and servers.
+
+
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/2d53030833bbc48399987ce0850fe7a41da3e1bd/file.png)
 
 
