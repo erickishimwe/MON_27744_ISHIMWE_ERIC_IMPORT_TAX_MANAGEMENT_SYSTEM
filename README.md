@@ -1,11 +1,11 @@
 
-📦 Import Product Tax Management System.
+##📦 Import Product Tax Management System.
 
 
 This project is a PL/SQL-based database solution designed to streamline the management of import product taxes. The system addresses common issues in manual tax handling such as errors, delays, and compliance challenges faced by customs agencies, import/export businesses, and tax authorities.
 
 
-❗ Problem Statement
+##❗ Problem Statement
 
 
 Import tax management is traditionally handled through manual processes, which are prone to errors, delays, and inefficiencies. Businesses and customs authorities face difficulties in accurately calculating duties, applying the correct tax rates, and ensuring timely compliance with trade regulations. These issues can lead to financial penalties, shipment delays, and a lack of transparency.
@@ -17,7 +17,7 @@ The Import Product Tax Management System aims to address these challenges by aut
 
 The process of managing import taxes is often manual, fragmented, and error-prone. Businesses and government agencies face numerous challenges such as:Inaccurate calculation of taxes based on product type and valuE,Difficulty maintaining organized records of importers, transactions, and payments Delays in tax payment and clearance processes due to inefficient tracking ,Limited transparency and accountability during audits and compliance check
 
-🚀 PROJECT OBJECTIVES:
+##🚀 PROJECT OBJECTIVES:
 - Automated Tax Calculations based on product category and value.
 - Importer and Transaction Management to track histories and ensure traceability.
 - Invoice and Payment Tracking to support timely and accurate financial records.
@@ -25,7 +25,7 @@ The process of managing import taxes is often manual, fragmented, and error-pron
 - Holiday Logic Integration to manage restricted dates in tax processes.
 
 
- 🧩 Business Process Model (BPM)
+ ##🧩 Business Process Model (BPM)
 
  
 The diagram below illustrates the core workflow of the Import Product Tax Management System, from product entry and tax calculation to payment processing and audit logging. It highlights the interactions between key entities such as importers, tax authorities, and system components.
@@ -33,12 +33,12 @@ The diagram below illustrates the core workflow of the Import Product Tax Manage
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/38936323934a3a0abbf487a7e66a059e84c1eb72/bpm.PNG) 
 
 
-📌 System UML
+##📌 System UML
 
 The Import Product Tax Management System is designed to streamline and automate the management of import-related taxes. It captures key processes including importer registration, product classification, tax rate assignment, transaction processing, invoice generation, payment tracking, and audit logging. The UML diagram below provides a visual overview of the system’s structure and the interaction between its core components.
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/f7e9750aeb59097ecf3135ab9a41a820b85dcf08/capture.png) 
 
-🗂️ Entity-Relationship Diagram (ERD):
+##🗂️ Entity-Relationship Diagram (ERD):
 
 
 The ERD below outlines the database structure of the Import Product Tax Management System. It shows the relationships between key entities such as Importers, Products, Taxes, Transactions, Invoices, and Payments, providing a clear view of how data is organized and interconnected within the system.
@@ -587,8 +587,10 @@ END;
 ```
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/adb7cb7b89d23651177a378798185c6bcb083537/procedure%203.png)
 
-*Oracle Enterprise Manager (OEM)
+##Oracle Enterprise Manager (OEM)
+
 is Oracle’s main tool for monitoring, managing, and tuning Oracle databases and servers.
+
 
 
 ![Conceptual Diagram](https://github.com/erickishimwe/MON_27744_ISHIMWE_ERIC_IMPORT_TAX_MANAGEMENT_SYSTEM/blob/2d53030833bbc48399987ce0850fe7a41da3e1bd/file.png)
